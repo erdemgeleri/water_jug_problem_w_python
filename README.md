@@ -43,4 +43,3 @@ When executed, the program outputs:
 1️⃣ **Number of steps**: Total iterations taken to achieve the solution.  
 2️⃣ **Final state**: Water level in each bucket after achieving the goal.  
 
-### Example Output:
